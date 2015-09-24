@@ -30,3 +30,8 @@
   </div>
 </section>
 ```
+
+## iPhoneでメールの受信設定
+- http://algorhythnn.jp/blg/2014/04/26/zoho-mail-iphone/
+- パスワードはうまーに聞いてください
+- 名前は"MotorSpot運営"で統一してください
