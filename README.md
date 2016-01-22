@@ -1,4 +1,4 @@
-# http://www.motorspot.club
+# http://motorspot.club
 
 本庄サーキット、南千葉サーキットで走行会を開催しています！  
 
